@@ -1,0 +1,12 @@
+name: m-out-of-n
+title: m-out-of-n
+username:
+account: mirkolg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1649839
+bundleId: 2724549
+url: https://mirkolg.shinyapps.io/m-out-of-n/
+when: 1578898463.14494
+asMultiple: FALSE
+asStatic: FALSE
