@@ -11,4 +11,5 @@ This folder contains 2 apps. The apps are written in R using the shiny package.
   Running versions can be found under:
   
   https://mirkolg.shinyapps.io/hearthstone_m_out_of_n/
+  
   https://mirkolg.shinyapps.io/hearthstone_no_duplicates/
